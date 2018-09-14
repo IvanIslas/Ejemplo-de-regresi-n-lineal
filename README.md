@@ -95,5 +95,8 @@ Epoch: 1000 cost= 0.081257381 W= 0.286305 b= 0.5373666
 Optimization Finished!
 Training cost= 0.08125738 W= 0.286305 b= 0.5373666
 
+#Gráficas
+![graficas](https://user-images.githubusercontent.com/16944756/45560881-ea4f0b80-b80b-11e8-9e7a-827390ee7b39.png)
+
 
 
